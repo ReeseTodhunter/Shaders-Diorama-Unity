@@ -210,9 +210,6 @@
     "m_StickyNoteDatas": [
         {
             "m_Id": "1f5ac975b93745e1987eb80ce4d7f260"
-        },
-        {
-            "m_Id": "122a1d28908b40c297b6836d50db9670"
         }
     ],
     "m_Edges": [
@@ -1213,10 +1210,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 1013.5999755859375,
-            "y": 208.0,
-            "width": 208.0,
-            "height": 325.5999755859375
+            "x": 1216.0001220703125,
+            "y": 208.00001525878907,
+            "width": 207.9998779296875,
+            "height": 326.0
         }
     },
     "m_Slots": [
@@ -1350,26 +1347,6 @@
     },
     "m_Property": {
         "m_Id": "0fc18330fb564d329d23f80e1b899712"
-    }
-}
-
-{
-    "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
-    "m_ObjectId": "122a1d28908b40c297b6836d50db9670",
-    "m_Title": "Added a colouring/rainbow option",
-    "m_Content": "Made myself to add to the decal allowing for a chosen colour to be used or a scrolling texture as a colour effect\n",
-    "m_TextSize": 0,
-    "m_Theme": 0,
-    "m_Position": {
-        "serializedVersion": "2",
-        "x": 801.5999755859375,
-        "y": 665.5999755859375,
-        "width": 343.2000732421875,
-        "height": 100.0
-    },
-    "m_Group": {
-        "m_Id": "db379a7cfaad4592a7f67309b988a553"
     }
 }
 
@@ -1769,14 +1746,14 @@
     "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
     "m_ObjectId": "1f5ac975b93745e1987eb80ce4d7f260",
-    "m_Title": "Created Using Tutorial",
+    "m_Title": "Adapted From: Tutorial",
     "m_Content": "Found here: https://www.youtube.com/watch?v=f7iO9ernEmM\nBy:\r\nDaniel Ilett",
     "m_TextSize": 0,
     "m_Theme": 0,
     "m_Position": {
         "serializedVersion": "2",
-        "x": -288.0,
-        "y": -524.7999877929688,
+        "x": -569.0,
+        "y": 18.0,
         "width": 284.0,
         "height": 100.0
     },
@@ -2263,10 +2240,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 634.4000854492188,
-            "y": 188.80001831054688,
-            "width": 125.59991455078125,
-            "height": 76.79998779296875
+            "x": 836.0000610351563,
+            "y": 188.99996948242188,
+            "width": 125.99993896484375,
+            "height": 77.00003051757813
         }
     },
     "m_Slots": [
@@ -2300,8 +2277,8 @@
     "m_ObjectId": "3ac5a0622703416eb88e6816a0f17757",
     "m_Title": "Add texture",
     "m_Position": {
-        "x": 10.0,
-        "y": 10.0
+        "x": 811.0,
+        "y": 51.0
     }
 }
 
@@ -2896,10 +2873,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 795.2000122070313,
-            "y": 110.4000015258789,
-            "width": 208.0,
-            "height": 301.60003662109377
+            "x": 997.0,
+            "y": 110.00000762939453,
+            "width": 130.0,
+            "height": 117.9999771118164
         }
     },
     "m_Slots": [
@@ -3263,10 +3240,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 888.800048828125,
-            "y": 314.3999938964844,
-            "width": 109.5999755859375,
-            "height": 33.60003662109375
+            "x": 1091.0,
+            "y": 314.0,
+            "width": 110.0,
+            "height": 33.999969482421878
         }
     },
     "m_Slots": [
@@ -3546,10 +3523,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 888.800048828125,
-            "y": 265.6000061035156,
-            "width": 105.5999755859375,
-            "height": 33.600006103515628
+            "x": 1091.0,
+            "y": 266.0,
+            "width": 104.9998779296875,
+            "height": 33.999969482421878
         }
     },
     "m_Slots": [
@@ -4838,10 +4815,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 1253.599853515625,
-            "y": 118.4000015258789,
-            "width": 208.0001220703125,
-            "height": 432.0000305175781
+            "x": 1456.0001220703125,
+            "y": 117.9999771118164,
+            "width": 207.9998779296875,
+            "height": 435.0000305175781
         }
     },
     "m_Slots": [
@@ -5711,10 +5688,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 1058.4000244140625,
-            "y": 155.1999969482422,
-            "width": 149.5999755859375,
-            "height": 33.60002136230469
+            "x": 1260.0,
+            "y": 154.99998474121095,
+            "width": 149.0001220703125,
+            "height": 33.99998474121094
         }
     },
     "m_Slots": [
